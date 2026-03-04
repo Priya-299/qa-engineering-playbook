@@ -1,7 +1,7 @@
 **Project: Online Fund Transfer Platform 
 Version: 1.0**
 
-**1. Introduction**
+1. Introduction
 
 This Test Strategy defines the overall approach for validating the quality, integrity, and reliability of the Online Fund Transfer platform.
 
