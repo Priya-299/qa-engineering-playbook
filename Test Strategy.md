@@ -21,7 +21,7 @@ alignment with business requirements before release to production.
 8. End-to-end transaction validation
 9. Negative and edge case scenarios
 10. Data integrity validation
-11.Basic performance observation
+11. 11.Basic performance observation
 12. UAT support
 
 **Out of Scope**
