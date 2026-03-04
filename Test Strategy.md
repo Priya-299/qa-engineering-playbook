@@ -4,7 +4,6 @@ Version: 1.0**
 1. Introduction
 
 This Test Strategy defines the overall approach for validating the quality, integrity, and reliability of the Online Fund Transfer platform.
-
 The objective is to ensure that all functional flows, API interactions, database transactions, and integration points operate accurately, securely, and in 
 alignment with business requirements before release to production.
 
